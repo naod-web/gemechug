@@ -58,15 +58,16 @@ Open for interesting challenges in:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
   
-  <!-- GitHub Stats with Customized Display -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naod-web&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&hide=issues,prs" alt="GitHub Stats" />
+  <!-- GitHub Stats -->
+  <img height="180em" src="https://gprm.itsvg.in/api?username=naod-web&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&hide=issues,prs" alt="GitHub Stats" />
   
-  <!-- Top Languages with More Control -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naod-web&theme=dracula&hide_border=true&layout=compact&langs_count=10&hide=html,css,scss,less,stylus,jupyter%20notebook&exclude_repo=github-readme-stats" alt="Top Languages" />
+  <!-- Top Languages -->
+  <img height="180em" src="https://gprm.itsvg.in/api/top-langs/?username=naod-web&theme=dracula&hide_border=true&layout=compact&langs_count=10&hide=html,css,scss,less,stylus,jupyter%20notebook" alt="Top Languages" />
   
 </div>
 
@@ -74,8 +75,8 @@ Open for interesting challenges in:
 
 <div align="center">
   
-  <!-- Contribution Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naod-web&theme=dracula&hide_border=true&date_format=M+j%5B%2C+Y%5D&card_width=800" alt="Contribution Streak" width="60%" />
+  <!-- Streak Stats -->
+  <img src="https://gprm.itsvg.in/api?username=naod-web&type=streak&theme=dracula&hide_border=true&date_format=M+j%5B%2C+Y%5D&card_width=800" alt="Contribution Streak" width="60%" />
   
 </div>
 
@@ -84,7 +85,7 @@ Open for interesting challenges in:
 <div align="center">
   
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=naod-web&theme=onedark&no-frame=true&margin-w=15&row=2&column=4&title_color=00C4B4&text_color=ffffff&icon_color=00C4B4" alt="GitHub Profile Trophies" />
+  <img src="https://gprm.itsvg.in/api?username=naod-web&type=trophy&theme=dracula&no-frame=true&margin-w=15&row=2&column=4&title_color=00C4B4&text_color=ffffff&icon_color=00C4B4" alt="GitHub Profile Trophies" />
   
 </div>
 
@@ -92,15 +93,10 @@ Open for interesting challenges in:
 
 <div align="center">
   
-  <!-- Multiple Visitor Badges (Choose one) -->
-  
-  <!-- Option 1: Komarev -->
+  <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=naod-web&color=00C4B4&style=flat&label=Profile+Views" alt="Profile Views" />
   
-  <!-- Option 2: Visitor Badge (alternative) -->
-  <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=naod-web.naod-web" alt="visitors" /> -->
-  
-  <!-- Option 3: Hits Counter -->
-  <!-- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnaod-web%2F&count_bg=%2300C4B4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Hits" /> -->
+  <!-- Optional: GitHub Followers -->
+  <img src="https://img.shields.io/github/followers/naod-web?color=00C4B4&label=Followers&style=flat" alt="GitHub Followers" />
   
 </div>
