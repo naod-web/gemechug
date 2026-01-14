@@ -34,11 +34,11 @@ Let's build something reliable and scalable together! 🚀
 📫 Feel free to reach out: gamegbay@gmail.com 
 <div align="center">
   <a href="https://www.linkedin.com/in/gemechu-gadisa-149621191/">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="100"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://discord.com/users/gemechug">
-    <img src="https://img.shields.io/badge/-Discord-%235865F2?style=flat&logo=discord&logoColor=white" alt="Discord" width="100"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
 </div>
 
