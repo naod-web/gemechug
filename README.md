@@ -61,32 +61,36 @@ Open for interesting challenges in:
 
 ## 📊 GitHub Stats & Activity
 
+### Option 1: All separate reliable services
+
 <div align="center">
+  <!-- GitHub Stats (Anurag's) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naod-web&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
   
-  <!-- GitHub Stats -->
-  <img height="180em" src="https://gprm.itsvg.in/api?username=naod-web&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&hide=issues,prs" alt="GitHub Stats" />
-  
-  <!-- Top Languages -->
-  <img height="180em" src="https://gprm.itsvg.in/api/top-langs/?username=naod-web&theme=dracula&hide_border=true&layout=compact&langs_count=10&hide=html,css,scss,less,stylus,jupyter%20notebook" alt="Top Languages" />
-  
+  <!-- Top Languages (Anurag's) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naod-web&theme=dracula&hide_border=true&layout=compact&langs_count=10" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  
-  <!-- Streak Stats -->
-  <img src="https://gprm.itsvg.in/api?username=naod-web&type=streak&theme=dracula&hide_border=true&date_format=M+j%5B%2C+Y%5D&card_width=800" alt="Contribution Streak" width="60%" />
-  
+  <!-- Streak Stats (Denver's) -->
+  <img src="https://streak-stats.demolab.com/?user=naod-web&theme=dracula&hide_border=true" alt="Contribution Streak" width="60%" />
 </div>
 
 <br>
 
 <div align="center">
-  
-  <!-- GitHub Trophies -->
-  <img src="https://gprm.itsvg.in/api?username=naod-web&type=trophy&theme=dracula&no-frame=true&margin-w=15&row=2&column=4&title_color=00C4B4&text_color=ffffff&icon_color=00C4B4" alt="GitHub Profile Trophies" />
-  
+  <!-- GitHub Trophies (Ryoma's) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=naod-web&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Profile Trophies" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Profile Views & Followers -->
+  <img src="https://komarev.com/ghpvc/?username=naod-web&color=00C4B4&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/naod-web?color=00C4B4&style=flat" alt="Followers" />
 </div>
 
 <br>
