@@ -1,5 +1,37 @@
 # 💫 About Me:
-Am Senior Software Developer/ Engineer focused on java - spring boot for backend | react/next js | ACE AppConnect and WSO2 middlewre java integrator and T24 Developer
+### Hi there 👋 I'm Gemechu.
+
+**Senior Software Engineer** | Backend & Integration Specialist
+
+I build robust, scalable backend systems and enterprise integrations with a strong focus on:
+
+- **Java** • **Spring Boot** • **Spring Cloud** • **Microservices**
+- **React** • **Next.js** • **TypeScript** • Modern Frontend
+- **WSO2** (EI, IS, APIM, Choreo) • Enterprise Integration & API Management
+- **Temenos T24** • Infobasic • TAFC/TAFJ • Core Banking Development
+- **ACE AppConnect** (IBM App Connect / Integration Bus) • Hybrid Integration
+
+Currently passionate about:
+- Clean architecture & Domain-Driven Design
+- Event-driven systems & message brokers (Kafka, RabbitMQ, WSO2 MB)
+- Cloud-native development (Docker • Kubernetes • AWS/Azure/GCP)
+- API-first development & OpenAPI/Swagger
+- Performance optimization of both monoliths and distributed systems
+
+Always learning → Currently diving deeper into:
+- Reactive programming (Project Reactor / WebFlux)
+- Serverless & Choreo
+- OpenTelemetry + modern observability
+
+Open for interesting challenges in:
+- FinTech / Core Banking
+- Enterprise Integration & API Ecosystems
+- High-performance Java backends
+- Full-stack JavaScript + Java projects
+
+Let's build something reliable and scalable together! 🚀
+
+📫 Feel free to reach out: [your.email@example.com] | [LinkedIn] | [Twitter/X]
 
 
 ## 🌐 Socials:
