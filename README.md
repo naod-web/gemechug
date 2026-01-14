@@ -29,17 +29,19 @@ Open for interesting challenges in:
 - High-performance Java backends
 - Full-stack JavaScript + Java projects
 
-Let's build something reliable and scalable together! 🚀
+## 🌐 Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gemechu-gadisa-149621191/">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
+  <a href="https://www.linkedin.com/in/gemechu-gadisa-149621191/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/users/YOUR_DISCORD_USER_ID">
-    <img src="https://img.shields.io/badge/-Discord-%235865F2?style=flat&logo=discord&logoColor=white" alt="Discord" height="28"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/users/YOUR_DISCORD_USER_ID" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="40"/>
   </a>
 </div>
+
+<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@gemechug) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gemechu-gadisa-149621191) 
