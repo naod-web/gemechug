@@ -31,16 +31,15 @@ Open for interesting challenges in:
 
 Let's build something reliable and scalable together! 🚀
 
-<div align="center" style="margin: 20px 0;">
+<div align="center">
   <a href="https://www.linkedin.com/in/gemechu-gadisa-149621191/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=005582" alt="LinkedIn" height="45"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
   </a>
-  <span style="margin: 0 15px;"></span>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://discord.com/users/YOUR_DISCORD_USER_ID">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=4752C4" alt="Discord" height="45"/>
+    <img src="https://img.shields.io/badge/-Discord-%235865F2?style=flat&logo=discord&logoColor=white" alt="Discord" height="28"/>
   </a>
 </div>
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@gemechug) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gemechu-gadisa-149621191) 
