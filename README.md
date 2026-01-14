@@ -61,25 +61,24 @@ Open for interesting challenges in:
 ## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <!-- Main Stats Card - Clean & Detailed -->
-  <img src="https://github-readme-stats.vercel.app/api?username=naod-web&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  
-  <!-- Top Languages - Compact layout -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naod-web&theme=dracula&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="40%" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=naod-web&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&hide=issues,prs" alt="GitHub Stats" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naod-web&theme=dracula&hide_border=true&layout=compact&langs_count=8&hide=html,css" alt="Top Languages" />
 </div>
 
 <br>
 
-<!-- Contribution Streak - Motivational & Clean -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naod-web&theme=dracula&hide_border=true&date_format=M+j%5B%2C+Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naod-web&theme=dracula&hide_border=true&date_format=M+j%5B%2C+Y%5D&card_width=800" alt="Contribution Streak" width="60%" />
 </div>
 
 <br>
 
-<!-- GitHub Profile Trophy - Premium Achievements Look -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=naod-web&theme=dracula&no-frame=true&margin-w=15&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=naod-web&theme=dracula&no-frame=true&margin-w=15&row=1&column=7&title_color=00C4B4&text_color=ffffff&icon_color=00C4B4" alt="GitHub Profile Trophies" />
 </div>
 
 <br>
+
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=naod-web&label=Profile%20Views&labelColor=1e1e2e&countColor=00C4B4&style=flat&color=ffffff" alt="Visitor Badge" />
+</div>
