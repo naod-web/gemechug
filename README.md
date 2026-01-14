@@ -60,7 +60,14 @@ Open for interesting challenges in:
 
 
 ## 📊 GitHub Stats & Activity
+![](https://github-readme-stats.vercel.app/api?username=naod-web&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=naod-web&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=naod-web&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=naod-web&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<br>
 <div align="center">
   <!-- Profile Views & Followers -->
   <img src="https://komarev.com/ghpvc/?username=naod-web&color=00C4B4&style=flat" alt="Profile Views" />
